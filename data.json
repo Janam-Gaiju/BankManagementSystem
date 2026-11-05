@@ -1,0 +1,11 @@
+[
+    {
+        "name": "ramu",
+        "age": 23,
+        "email": "ramu@gmail.com",
+        "pin_salt": "434a5fae30e133f329d9952a52ae2c5e",
+        "pin_hash": "c354c700b1655cc8488c1473c7d0b3c29268ca1371d0faff9873a1503ca524fb",
+        "account_number": "6157544327",
+        "balance": 900
+    }
+]
